@@ -48,3 +48,6 @@ console.log('Stopping the car');
 EVCar1.stop();
 console.log('Make some noise');
 EVCar1.makenoise();
+
+
+//this comment is added to branch1_js

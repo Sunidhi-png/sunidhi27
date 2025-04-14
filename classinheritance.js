@@ -51,3 +51,5 @@ EVCar1.makenoise();
 
 
 //this comment is added to branch1_js
+
+//this comment is added to 2nd branch js2
